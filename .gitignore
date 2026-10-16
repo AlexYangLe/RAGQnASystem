@@ -1,0 +1,7 @@
+medical_lightrag_db/
+tmp_data/user_credentials.json
+.env
+.DS_Store
+node_modules/
+__pycache__/
+.pytest_cache/
